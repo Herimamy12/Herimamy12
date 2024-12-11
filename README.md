@@ -3,6 +3,7 @@
 ## 📚 Repositories
 
 [![libft](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=libft)](https://github.com/Herimamy12/libft)
+[![piscine](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=piscine)](https://github.com/Herimamy12/piscine)
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=ft_printf)](https://github.com/Herimamy12/ft_printf)
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=get_next_line)](https://github.com/Herimamy12/get_next_line)
 
