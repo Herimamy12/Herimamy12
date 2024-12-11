@@ -24,6 +24,8 @@ Bienvenue sur mon profil GitHub !
 
 - Activité de contribution : ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
 ## 🌐 Lien vers mon portfolio
 
 - **Portfolio LinkedIn** : [LinkedIn](https://linkedin.com/in/votre-profil)
