@@ -7,30 +7,30 @@ Bienvenue sur mon profil GitHub !
 - **Nom** : Herimamy
 - **Profession** : Développeur passionné par la technologie
 - **Centres d'intérêt** : Jeux vidéo, Lecture, Voyages, Musique
-- **Portfolio LinkedIn** : [Votre Profil LinkedIn](https://linkedin.com/in/votre-profil)
+- **Portfolio LinkedIn** : [LinkedIn](https://linkedin.com/in/)
 
 ## 📚 Repositories populaires
 
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=repo1)](https://github.com/Herimamy12/repo1)
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=repo2)](https://github.com/Herimamy12/repo2)
+[![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=get_next_line)](https://github.com/Herimamy12/get_next_line)
+[![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=ft_printf)](https://github.com/Herimamy12/ft_printf)
 
-## 📈 Contribution annuelle
+## 📈 Statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herimamy12&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herimamy12&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herimamy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Activités de contribution
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herimamy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Contributions hebdomadaires : ![Week Contributions](https://github-contributor-stats.vercel.app/api?username=Herimamy12&hide=contribs,prs&theme=radical)
+- Activité de contribution : ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
 ## 🌐 Lien vers mon portfolio
 
-- **Portfolio LinkedIn** : [Votre Profil LinkedIn](https://linkedin.com/in/votre-profil)
-- **Portfolio personnel** : [Lien vers votre portfolio personnel]
+- **Portfolio LinkedIn** : [LinkedIn](https://linkedin.com/in/votre-profil)
+- **Portfolio personnel** : [portfolio](https://linkedin.com/in/votre-profil)
 
-## 🎨 Centres d'intérêt
+---
 
-- 🎮 Jeux vidéo
-- 📚 Lecture
-- ✈️ Voyages
-- 🎵 Musique
+Merci de visiter mon profil ! Si vous avez des questions ou des opportunités intéressantes, n'hésitez pas à me contacter.
+
