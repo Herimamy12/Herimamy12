@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 🚀 Activités de contribution
 
-- Contributions hebdomadaires : [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Herimamy12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- Contributions hebdomadaires : [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
 - Activité de contribution : ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
 ## 🌐 Lien vers mon portfolio
