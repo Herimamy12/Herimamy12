@@ -1,6 +1,6 @@
 # 👋 Hello World !
 
-## 📚 Latest repositories
+## 📚 Repositories
 
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=get_next_line)](https://github.com/Herimamy12/get_next_line)
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=ft_printf)](https://github.com/Herimamy12/ft_printf)
@@ -12,7 +12,5 @@
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
 ## 📈 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herimamy12&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
