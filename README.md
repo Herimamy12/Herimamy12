@@ -1,37 +1,18 @@
-# 👋 Bonjour, je suis Herimamy !
+# 👋 Hello World !
 
-Bienvenue sur mon profil GitHub !
-
-## 🌟 Mon Profil
-
-- **Nom** : Herimamy
-- **Profession** : Développeur passionné par la technologie
-- **Centres d'intérêt** : Jeux vidéo, Lecture, Voyages, Musique
-- **Portfolio LinkedIn** : [LinkedIn](https://linkedin.com/in/)
-
-## 📚 Repositories populaires
+## 📚 Latest repositories
 
 [![get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=get_next_line)](https://github.com/Herimamy12/get_next_line)
 [![ft_printf](https://github-readme-stats.vercel.app/api/pin/?username=Herimamy12&repo=ft_printf)](https://github.com/Herimamy12/ft_printf)
 
-## 📈 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herimamy12&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herimamy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 Activités de contribution
-
-- Activité de contribution : ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-## 🌐 Lien vers mon portfolio
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
-- **Portfolio LinkedIn** : [LinkedIn](https://linkedin.com/in/votre-profil)
-- **Portfolio personnel** : [portfolio](https://linkedin.com/in/votre-profil)
+## 📈 Statistiques GitHub
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herimamy12&show_icons=true&theme=radical)
 
-Merci de visiter mon profil ! Si vous avez des questions ou des opportunités intéressantes, n'hésitez pas à me contacter.
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
