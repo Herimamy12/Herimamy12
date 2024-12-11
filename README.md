@@ -17,12 +17,12 @@ Bienvenue sur mon profil GitHub !
 ## 📈 Statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Herimamy12&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herimamy12&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herimamy12&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herimamy12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Activités de contribution
 
-- Contributions hebdomadaires : ![Week Contributions](https://github-contributor-stats.vercel.app/api?username=Herimamy12&hide=contribs,prs&theme=radical)
+- Contributions hebdomadaires : [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Herimamy12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - Activité de contribution : ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Herimamy12&theme=radical)
 
 ## 🌐 Lien vers mon portfolio
