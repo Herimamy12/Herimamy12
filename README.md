@@ -1,65 +1,15 @@
-<div align="center">
-    ![Vibe coder dev](./assets/vibe_coded.gif)
-</div>
-
-<h1 align="center">Naval</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Développeur-Full%20Stack-111827?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<h2 align="center">Compétences</h2>
-
-<h3 align="center">Langages</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,bash&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nginx&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Bases de données</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,prisma&theme=dark" />
-  </a>
-</p>
-
-<h3 align="center">Outils</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,linux,vercel&theme=dark" />
-  </a>
-</p>
-
-<h2 align="center">Contact</h2>
-
-<p align="center">
-  <a href="mailto:herimami.naval@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://www.linkedin.com/in/nherimam" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://instagram.com/herimaminavalona.prosper" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-  </a>
-</p>
+![Vibe coder dev](./assets/vibe_coded.gif)
+<p align="center"><img src="https://img.shields.io/badge/NAVAL-0f172a?style=for-the-badge&labelColor=020617&color=111827"/> <img src="https://img.shields.io/badge/Développeur-Full%20Stack-111827?style=for-the-badge&labelColor=0b1220&logo=github&logoColor=white"/></p>
+<p align="center"><img src="https://img.shields.io/badge/COMPÉTENCES-0f172a?style=for-the-badge&labelColor=020617&color=111827"/></p>
+<p align="center"><img src="https://img.shields.io/badge/LANGAGES-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,bash&theme=dark"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/FRONTEND-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite&theme=dark"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/BACKEND-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nginx&theme=dark"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/BASES%20DE%20DONNÉES-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,prisma&theme=dark"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/OUTILS-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,linux,vercel&theme=dark"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/CONTACT-0f172a?style=for-the-badge&labelColor=020617&color=111827"/></p>
+<p align="center"><a href="mailto:herimami.naval@gmail.com"><img src="https://img.shields.io/badge/Email-herimami.naval%40gmail.com-111827?style=flat-square&labelColor=0b1220&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/nherimam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-nherimam-111827?style=flat-square&labelColor=0b1220&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/herimaminavalona.prosper" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-herimaminavalona.prosper-111827?style=flat-square&labelColor=0b1220&logo=instagram&logoColor=white"/></a></p>
