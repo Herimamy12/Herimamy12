@@ -20,7 +20,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/OUTILS-1f2937?style=flat-square&labelColor=111827&color=0f172a"/></p>
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,linux,vercel&theme=dark"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,vim,linux,vercel&theme=dark"/></a></p>
 
 <p align="center"><img src="https://img.shields.io/badge/CONTACT-0f172a?style=for-the-badge&labelColor=020617&color=111827"/></p>
 
