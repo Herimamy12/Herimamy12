@@ -1,4 +1,4 @@
-![Vibe coder dev](https://github.com/Herimamy12/Herimamy12/assets/vibe_coded.gif)
+![Vibe coder dev](./assets/vibe_coded.gif)
 
 <h1 align="center">Naval</h1>
 
