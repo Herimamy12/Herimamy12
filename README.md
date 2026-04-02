@@ -2,9 +2,9 @@
 
 <p align="center"><img src="https://img.shields.io/badge/COMPÉTENCES-0f172a?style=for-the-badge&labelColor=020617&color=111827"/></p>
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,bash&theme=dark"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,bash&theme=dark"/></a></p>
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite&theme=dark"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,react,tailwind,threejs&theme=dark"/></a></p>
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nginx&theme=dark"/></a></p>
 
