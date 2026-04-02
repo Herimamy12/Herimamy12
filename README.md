@@ -1,4 +1,6 @@
-![Vibe coder dev](./assets/vibe_coded.gif)
+<div align="center">
+    ![Vibe coder dev](./assets/vibe_coded.gif)
+</div>
 
 <h1 align="center">Naval</h1>
 
